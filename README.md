@@ -7,7 +7,7 @@ go get -u github.com/mef13/timerange
 ```
 
 ## Usage
-Calculating time range based on current time
+Calculating time range based on current time:
 ```go
 package main
 
@@ -24,7 +24,7 @@ func main() {
 }
 ```
 
-Calculating time range based on custom time
+Calculating time range based on custom time:
 ```go
 package main
 
@@ -42,6 +42,7 @@ func main() {
 ```
 
 ##Contributing
+
 Contributions are always welcome!
 
 ## License
